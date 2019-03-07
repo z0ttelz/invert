@@ -1,0 +1,7 @@
+.b_body{
+	filter: invert(1) !important;
+	background-color: black !important;
+}
+.b_nrm{
+	filter: invert(1) !important;
+}
